@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "git": "^0.1.5"
+  },
+  "name": "memorygame",
+  "description": "In This game, You ope  **two** cards in one step... If They were similar They remain faced up, If no , The will be faced down again.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./js/app.js"
+  },
+  "author": "alsafa",
+  "license": "ISC"
+}
